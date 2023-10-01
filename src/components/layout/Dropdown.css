@@ -1,0 +1,49 @@
+/* UserDropdown.css */
+.user-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.user-avatar {
+  cursor: pointer;
+}
+
+.dropdown-content {
+    width: 280px;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.user-info {
+  padding: 10px;
+  text-align: center;
+}
+
+.user-info img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.dropdown-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.dropdown-menu li {
+  padding: 10px;
+  cursor: pointer;
+  border-top: 1px solid #ccc;
+}
+
+.dropdown-menu li:first-child {
+  border-top: none;
+}
+
+

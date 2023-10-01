@@ -1,0 +1,35 @@
+.experience {
+  padding: 0px;
+  text-align: start;
+  padding-left: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.parent-experience {
+  background-color: #fff;
+  margin-top: 10px;
+}
+
+.parent-experience p {
+  text-align: start;
+  padding-left: 6px;
+}
+
+.employment-micros {
+  margin-left: 58px;
+  position: relative;
+  bottom: 11px;
+}
+
+.past-work-detail {
+  font-size: 13.5px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.5;
+  margin: 0;
+  padding: 10px;
+  width: 90%;
+  margin: 0 auto;
+  font-weight: 300;
+}

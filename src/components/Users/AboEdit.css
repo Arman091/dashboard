@@ -1,0 +1,42 @@
+/* AboutEditor.css */
+.about-editor {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.editor-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.editor-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.editor-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.editor-button:hover {
+  background-color: #0056b3;
+}
+
+.editor-button.cancel-button {
+  background-color: #dc3545;
+  margin-right: 10px;
+}
+
+.editor-button.cancel-button:hover {
+  background-color: #bb2d3b;
+}

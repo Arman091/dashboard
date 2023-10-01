@@ -1,0 +1,65 @@
+/* Header.css */
+.dashboard-header {
+  height: 84px;
+  background-color: white;
+  border-bottom: 1px solid rgb(246, 241, 241);
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  margin-bottom: 2px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: large;
+}
+.logo img {
+  height: 50px;
+}
+
+.logo span {
+  position: relative;
+  right: 20px;
+  font-size: 1.2em;
+}
+.search-box input {
+  width: 200px;
+  padding: 5px;
+  border: 0.2px solid rgb(232, 224, 224);
+  border-radius: 5px;
+  background-color: 1px solid rgb(230, 223, 223);
+}
+
+.header-icons {
+  display: flex;
+  width: 40%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.header-icons img {
+  height: 20px;
+  margin-left: 10px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+}
+
+.image-icon span {
+  margin-left: 8px;
+  font-size: 12px;
+  cursor: pointer;
+  
+}
+
+.image-icon{
+ 
+  border-radius: 4px;
+}
+

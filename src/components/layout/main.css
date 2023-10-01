@@ -1,0 +1,22 @@
+.background-image {
+  border-radius: 5px;
+  height: 8rem;
+  width: 100%;
+  overflow: hidden;
+  z-index: 0;
+  background-color: #52718c;
+}
+
+.background-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
+}
+
+/* User-details styles */
+
+.user-detail {
+  width: 75%;
+  margin: 0px auto;
+}

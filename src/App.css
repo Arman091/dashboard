@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 95%;
+  margin: 9px auto;
+  border: 2 px solid white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}

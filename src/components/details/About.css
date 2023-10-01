@@ -1,0 +1,46 @@
+/* About.css */
+
+.Education {
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin-bottom: 1px;
+}
+
+.Education {
+  text-align: start;
+  padding-left: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+.Education h2 {
+  font-size: 18px;
+  margin: 0px;
+  margin-top: 3px;
+}
+
+.experience-container {
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
+.education-details {
+  margin-left: 50px;
+}
+
+.education-details p {
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+.education-details span {
+  font-size: 13px;
+}
+
+.education-wrapper {
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}

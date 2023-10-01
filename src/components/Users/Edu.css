@@ -1,0 +1,33 @@
+/* EducationEditor.css */
+.education-editor {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.editor-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.editor-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.editor-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.editor-button:hover {
+  background-color: #0056b3;
+}
